@@ -48,11 +48,13 @@
 	margin-top: 3px;
 	padding-left: 100px;
 	font-style: italic ;
+	text-align: center;
 
 }
 #datos{
 	padding-left: 100px;
 	font-size: 16px;
+	text-align: center;
 }
 #educ{
 	align-self: center;
