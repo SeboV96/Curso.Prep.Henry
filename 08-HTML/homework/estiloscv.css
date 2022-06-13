@@ -1,0 +1,92 @@
+.divUno{
+	display: flex;
+    background-color: grey;
+    border: 3px solid black;
+}
+
+.divDos{
+	border: 3px solid black;
+	padding-left: 15px;
+	display: flex;
+	flex-direction: column;
+	background-color: darkgrey;
+}
+
+.divTres{
+	border: 3px solid black;
+	padding-left: 15px;
+	display: flex;
+	flex-direction: column;
+	background-color: darkgrey;
+}
+
+.divCuatro{
+	border: 3px solid black;
+	padding-left: 15px;
+	display: flex;
+	flex-direction: column;
+	background-color: darkgrey;
+}
+
+.divCinco{
+	border: 3px solid black;
+	padding-left: 15px;
+	display: flex;
+	flex-direction: column;
+	background-color: darkgrey;
+}
+
+
+#foto{
+	width: 200px;
+	height: 200px;
+	margin-left: 500px;
+	margin-top: 25px;
+}
+#Nombre {
+	font-size: 30px;
+	margin-top: 3px;
+	padding-left: 100px;
+	font-style: italic ;
+
+}
+#datos{
+	padding-left: 100px;
+	font-size: 16px;
+}
+#educ{
+	align-self: center;
+	color: orange;
+	margin-bottom: 2px;
+}
+
+#datosEduc{
+	margin-top: 3px;
+}
+
+#exp{
+	align-self: center;
+	color: orange;
+	margin-bottom: 2px;
+}
+#explist{
+	margin-top: 3px;
+}
+
+#skills{
+	align-self: center;
+	color: orange;
+	margin-bottom: 2px;
+
+}
+#skillslist{
+	margin-top: 3px;
+}
+#hobbies {
+	align-self: center;
+	color: orange;
+	margin-bottom: 2px;
+}
+#hobbieslist {
+	margin-top: 3px;
+}
